@@ -49,11 +49,10 @@ The dashboard helps monitor conversion efficiency, compare MS sales with power c
 
 (Add dashboard screenshot here)
 
+## Dashboard Preview
+
+![Power Conversion Dashboard](Power-Conversion-Dashboard.png.png)
+
 ## Author
 
 Jeff Verghese
-# Power_Conversion_Dashboard
-
-## Dashboard Preview
-
-![Dashboard Screenshot](dashboard.png)
